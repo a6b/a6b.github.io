@@ -44,18 +44,14 @@
                     "css": "background:linear-gradient(#b3b8cc,#6179c0); color:#FFF;",
                     "url": "/13769",
                     "list": [
-                        {"title":"为什么会有人类（webm格式）", "vid": "media-0"},
-                        {"title":"新唐人亚太台", "vid": "media-1"},
-                        {"title":"新唐人美东台", "vid": "media-2"}
+                        {"title": "九评共产党",
+                "url": "https://c.gmx.com/@657149698628392138/_DjLWUL4SWCx6FpnSBYbwA/ROOT/ROOT"  },
+                        {"title":"新唐人亚太台", "vid": "media-0"},
+                        {"title":"新唐人美东台", "vid": "media-1"}
                     ]
                 }
             ],
     "media": [
-                {
-                    "title": "为什么会有人类",
-                    "type": "webm",
-                    "file": "https://gitlab.com/tui590285/vdjiangfa/-/raw/master/public/jiangfa.webm"
-                },
                 {
                     "title": "新唐人亚太台",
                     "type": "m3u8",
